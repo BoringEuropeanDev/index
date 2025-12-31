@@ -29,3 +29,7 @@ If applicable
 - Sources affected: [e.g., arXiv, PubMed]
 
 ## Error Message
+
+[any console errors]
+
+undefined
